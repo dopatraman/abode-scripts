@@ -12,6 +12,5 @@ setup(
     description = ("Convenience scripts for Abode"),
     license = "BSD",
     url = "https://github.com/dopatraman/abode-scripts",
-    packages=['openpyxl'],
     long_description=read('README.md')
 )
